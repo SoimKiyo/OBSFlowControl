@@ -28,6 +28,11 @@ last_cursor_position = None
 last_frame_timecode = None
 
 
+
+
+/////////////////// DONT MODIFY IF YOU DONT KNOW WHAT YOU DO /////////////////// 
+
+
 def calculate_auth_hash(password, challenge, salt):
     """Calculate the authentication hash for OBS WebSocket."""
     try:
