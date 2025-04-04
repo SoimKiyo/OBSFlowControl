@@ -1,4 +1,4 @@
-# OBSIRL
+# OBSFlowControl
 
 ## Description
 
